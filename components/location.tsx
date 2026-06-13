@@ -63,7 +63,7 @@ export function Location() {
             />
 
             <a
-              href={BUSINESS.mapUrl}
+              href={BUSINESS.mapsDirections}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary w-full !py-3.5 mt-2"
